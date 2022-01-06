@@ -10,5 +10,5 @@ KPIs are mainly used to
 4. Analyze patterns overtime
 5. Make adjustments where neccessary. 
 
-
+The various types of KPIs include Qualitative and Quantitative Indicators, Actionable Indicators, Financial Indicators, Process Indicators, Directional and Practical Indicators and so much more. 
 
