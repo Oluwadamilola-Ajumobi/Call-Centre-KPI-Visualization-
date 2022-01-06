@@ -36,3 +36,9 @@ The Dashboard above shows
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/83877492/148394041-54a8e7b0-f411-47b1-b1cb-be1d351e280a.png)
 
+This second dashboard shows an overview of the agents performance behaviour. It indicates;
+1. The total number of issues resolved and un-resolved per agent
+2. Their average speed of answer
+3. Count of issues each agent was able to resolve and the unresolved
+4. Customer satisfaction rating per agent
+5. The total number of answered and un-answered calls per agent. 
