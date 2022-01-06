@@ -47,4 +47,4 @@ This second dashboard shows an overview of the agents performance behaviour. It 
 
 **Observation and Conclusion;** The average speed of answer has gone up over the month and this is quite commendable, there is also a huge difference betwwen the number of calls answered and abandoned as well as the issues resolved and un-resolved. The agents performace also shows dedication to their job at the call centre. 
 
-**Recommendation**; The call centre's performance is on the average considering that 3 has the highest count for overall customer rating,
+**Recommendation**; The call centre's performance is on the average considering that 3 has the highest count for overall customer rating. The management should invest in more technological instruments that would make the centre's daily task easier and faster, more agents should also be hired to fill in the slacking edges. They should also organize more workshops and trainings to educate agents on how to resolve certain issues and provide better customer services.
