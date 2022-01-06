@@ -32,3 +32,7 @@ The Dashboard above shows
 6. A piechart showing the total number of the resolved and unresolved issues category
 7. A chart showing the overall satisfaction rating for the various topics a call was made for
 8. A slicer that can be used to derive more insights from the dashboard. 
+
+
+![Screenshot (6)](https://user-images.githubusercontent.com/83877492/148394041-54a8e7b0-f411-47b1-b1cb-be1d351e280a.png)
+
