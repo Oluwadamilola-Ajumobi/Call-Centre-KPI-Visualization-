@@ -20,3 +20,11 @@ The various types of KPIs include Qualitative and Quantitative Indicators, Actio
 
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/83877492/148392739-c7eba198-eefa-4ae5-910e-67ca12a40547.png)
+
+
+
+The Dashboard above shows
+1. The total number of Agents working in the call centre
+2. Average speed of answer in seconds
+3. Total number of calls answered and the total number of calls abandoned
+4. The overall customer satisfaction rating between 1 - 5 
