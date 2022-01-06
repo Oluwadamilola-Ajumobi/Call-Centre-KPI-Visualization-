@@ -42,3 +42,4 @@ This second dashboard shows an overview of the agents performance behaviour. It 
 3. Count of issues each agent was able to resolve and the unresolved
 4. Customer satisfaction rating per agent
 5. The total number of answered and un-answered calls per agent. 
+6. A slicer that can be used to drill through and observe individual agent behaviour.
