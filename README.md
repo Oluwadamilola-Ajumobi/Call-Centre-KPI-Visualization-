@@ -43,3 +43,6 @@ This second dashboard shows an overview of the agents performance behaviour. It 
 4. Customer satisfaction rating per agent
 5. The total number of answered and un-answered calls per agent. 
 6. A slicer that can be used to drill through and observe individual agent behaviour.
+
+
+Observation; The call centre's performance is on the average considering that 3 has the highest count for overall customer rating,
