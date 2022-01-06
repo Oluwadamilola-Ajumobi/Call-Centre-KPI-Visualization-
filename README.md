@@ -45,4 +45,4 @@ This second dashboard shows an overview of the agents performance behaviour. It 
 6. A slicer that can be used to drill through and observe individual agent behaviour.
 
 
-Observation; The call centre's performance is on the average considering that 3 has the highest count for overall customer rating,
+Observation and Conclusion; The average speed of answer has gone up over the month and this is quite commendable, there is also a huge difference betwwen the number of calls answered and abandoned. The call centre's performance is on the average considering that 3 has the highest count for overall customer rating,
