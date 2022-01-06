@@ -29,4 +29,6 @@ The Dashboard above shows
 3. Total number of calls answered and the total number of calls abandoned
 4. The overall customer satisfaction rating between 1 - 5 
 5. The average speed of answer i.e time taken to asnwer a call (in seconds)
-6. 
+6. A piechart showing the total number of the resolved and unresolved issues category
+7. A chart showing the overall satisfaction rating for the various topics a call was made for
+8. A slicer that can be used to derive more insights from the dashboard. 
