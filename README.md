@@ -12,7 +12,7 @@ KPIs (Key Performance Indicators) are quantifiable measurements used to gauge a 
 
 The various types of KPIs include Qualitative and Quantitative Indicators, Actionable Indicators, Financial Indicators, Process Indicators, Directional and Practical Indicators and so much more. 
 
-**For this KPI Visualization**, I used the PwC Forage Internship Call Centre Dataset. The task was to give the manager an accurate overview of long term trends in customer and agent behaviour. The possible KPIs required were 
+**For this KPI Visualization**, I used the PwC Forage Internship Call Centre Dataset. The task was to give the manager an accurate overview of long term trends in customer and agent behaviour. The dataset contains a record of 5000 calls made in the call centre. The possible KPIs required were 
 1. Overall customer satisfaction
 2. Overall calls answered/abandoned
 3. Average speed of answer
@@ -28,3 +28,5 @@ The Dashboard above shows
 2. Average speed of answer in seconds
 3. Total number of calls answered and the total number of calls abandoned
 4. The overall customer satisfaction rating between 1 - 5 
+5. The average speed of answer i.e time taken to asnwer a call (in seconds)
+6. 
